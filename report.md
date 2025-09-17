@@ -37,7 +37,7 @@
 
 # DESCRIPTION
 
-- During the security review of "Pet grooming management", discovered a critical Unauthorized SQL injection vulnerability in the "print-payment.php" file. This vulnerability stems from insufficient user input validation of the 'sql' parameter, allowing attackers to inject malicious SQL queries. Therefore, attackers can gain unauthorized access to databases, modify or delete data, and access sensitive information. Immediate remedial measures are needed to ensure system security and protect data integrity.
+- During the security review of "Pet grooming management", discovered a critical Unauthorized SQL injection vulnerability in the "print-payment.php" file. This vulnerability stems from insufficient user input validation of the 'sql111' parameter, allowing attackers to inject malicious SQL queries. Therefore, attackers can gain unauthorized access to databases, modify or delete data, and access sensitive information. Immediate remedial measures are needed to ensure system security and protect data integrity.
 
 # No login or authorization is required to exploit this vulnerability
 
